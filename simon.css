@@ -1,0 +1,40 @@
+h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    direction:column;
+    justify-content: center;
+    
+    padding: 5px;
+    margin:50px;
+}
+.btn{
+    height: 170px;
+    width: 170px;
+    border :5px solid black;
+    /* padding: 5px; */
+    margin:10px;
+    border-radius: 20%;
+}
+#pink{
+    background-color: pink;
+}
+#red{
+    background-color:#ff2c2c;
+}
+#orange{
+    background-color: rgb(222, 152, 21);
+}
+#blue{
+    background-color:rgb(102, 102, 178);
+}
+.gameflash{
+    background-color: white !important;
+}
+.userflash{
+    background-color: rgb(38, 168, 38) !important;
+}
